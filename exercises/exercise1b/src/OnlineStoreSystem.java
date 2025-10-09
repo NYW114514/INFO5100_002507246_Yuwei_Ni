@@ -105,7 +105,7 @@ public class OnlineStoreSystem {
         }
         System.out.println();
 
-        // STEP 6: Handling returns with Stack
+        // STEP 6
         System.out.println("STEP 6: Handling returns with Stack");
 
         Stack<String> returns = new Stack<>();
