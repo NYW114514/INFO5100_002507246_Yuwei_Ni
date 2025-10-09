@@ -127,13 +127,6 @@ public class OnlineStoreSystem {
         }
 
         System.out.println();
-
-
-
-
-
-
-
-
+        
     }
 }
