@@ -1,0 +1,31 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+build/
+bin/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.sts4-cache/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+*.log
